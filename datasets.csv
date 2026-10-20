@@ -1,0 +1,10 @@
+column_prefix,display_label,company,chip_or_version_note,n_files,file_download_dates,ids_seen_in_release,gl_ids_seen,gl_ids_seen_pct,last_checked,notes
+x23andme_v3,23andMe v3,23andMe,v3 chip,1,not recorded,963046,1591,73.3,2026-10,Older 23andMe chip; one file.
+x23andme_v4,23andMe v4,23andMe,v4 chip,1,not recorded,601895,1488,68.5,2026-10,One file.
+x23andme_v5,23andMe v5,23andMe,v5 chip,2,not recorded; Oct 2026,643539,1333,61.4,2026-10,Two files. The Oct 2026 file is v5. The two files differ slightly (434 IDs are in only one of them); the union is used.
+ancestrydna_v2_2020,AncestryDNA v2 (2020 download),AncestryDNA,v2 chip (before the March 2026 change),1,2020,668892,1638,75.4,2026-10,"Kit from 2017, downloaded in 2020. The ID list reflects the 2020 download."
+ancestrydna_2026,AncestryDNA (Mar 2026),AncestryDNA,Current chip after the March 2026 change,2,2026,434798,845,38.9,2026-10,Ancestry's shorter raw-data files were first seen by customers around March 2026. The two files have identical ID lists.
+myheritage_2026,MyHeritage (2026),MyHeritage,Current chip (2026),2,Mar 2026; Jun 2026,584894,1175,54.1,2026-10,Two files from two different people; identical ID lists (same chip content).
+tellmegen_2026,tellmeGen,tellmeGen,Current chip (2026),1,2026,698624,1468,67.6,2026-10,One file. IDs written as GSA-rsNNNN were matched as rsNNNN.
+familytreedna,FamilyTreeDNA,FamilyTreeDNA,Family Finder,1,not recorded,624906,1294,59.6,2026-10,One file.
+strategene_2022,"StrateGene (testing era, 2022)",StrateGene,File from when StrateGene offered its own testing,1,2022,658933,1451,66.8,2026-10,StrateGene offered testing at that time; it now offers reports from other companies' raw data files.
