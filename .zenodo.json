@@ -1,0 +1,33 @@
+{
+  "upload_type": "dataset",
+  "title": "Genetic Lifehacks SNP Coverage Dataset: Which consumer DNA tests include each SNP",
+  "creators": [
+    {
+      "name": "Moon, Debbie",
+      "orcid": "0009-0009-7704-1429",
+      "affiliation": "Genetic Lifehacks"
+    }
+  ],
+  "description": "<p>Presence-only data on which SNPs (rsIDs and 23andMe i IDs) appear in real raw-data files from nine consumer DNA test versions: 23andMe v3, v4 and v5; AncestryDNA v2 (2020 download); AncestryDNA (March 2026 chip); MyHeritage (2026); tellmeGen; FamilyTreeDNA; and StrateGene (testing era, 2022). It also gives per-test coverage of the 2,171 variants discussed in 413 Genetic Lifehacks articles.</p><p>Evidence rules: an ID is 'seen' if it is in at least one file; 'not in files' only when it is absent from all of at least two files; absence from a single file is 'unknown'. An individual's file may still lack a covered SNP because of no-calls or chip revisions.</p><p>No genotypes, alleles, positions or per-person data are included. Company names are used for identification only; Genetic Lifehacks is not affiliated with any of these companies. Searchable online with the SNP Coverage Checker: <a href=\"https://www.geneticlifehacks.com/snp-coverage/\">https://www.geneticlifehacks.com/snp-coverage/</a>.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "SNP",
+    "rsID",
+    "raw DNA data",
+    "genotyping array",
+    "consumer genetics",
+    "23andMe",
+    "AncestryDNA",
+    "MyHeritage",
+    "SNP coverage"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.geneticlifehacks.com/snp-coverage/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}
