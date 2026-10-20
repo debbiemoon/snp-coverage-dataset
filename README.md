@@ -8,7 +8,7 @@ You can search it in the browser with the **SNP Coverage Checker**: <https://www
 
 - Version: 1.0.0 (released 2026-10-20). Files last checked October 2026.
 - License: [CC BY 4.0](LICENSE), covering the data and the documentation.
-- DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- DOI: [10.5281/zenodo.23503130](https://doi.org/10.5281/zenodo.23503130)
 
 ## What's in this repository
 
