@@ -5,6 +5,7 @@ title: "Genetic Lifehacks SNP Coverage Dataset: Which consumer DNA tests include
 version: 1.0.0
 date-released: 2026-10-20
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23503130
 url: "https://www.geneticlifehacks.com/snp-coverage/"
 authors:
   - given-names: Debbie
